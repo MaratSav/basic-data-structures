@@ -11,5 +11,5 @@ userName = 'Marat'
 userAge = 38
 userNew_age = age + 1
 userIs_student = age > new_age
-user = (f'\n Name: {userName} \n Age: {userAge} \n New_age: {userNew_age} \n Is_student: {userIs_student}')
+user = (f'\nName: {userName} \nAge: {userAge} \nNew_age: {userNew_age} \nIs_student: {userIs_student}')
 print (user)
